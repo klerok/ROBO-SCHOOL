@@ -1,0 +1,10 @@
+.container {
+    width: 1619px;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
