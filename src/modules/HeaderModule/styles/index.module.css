@@ -1,10 +1,14 @@
-.container {
-    width: 1619px;
-    margin: 0;
-    padding: 0;
+.header {
+  background: #141024;
+  padding: 30px 0;
+  text-align: center;
+
 }
 
-.header {
-    display: flex;
-    justify-content: space-between;
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
 }
+

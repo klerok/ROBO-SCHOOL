@@ -37,7 +37,7 @@ src/
 │   ├── ProductsModule/
 │   │   ├── components/         # ВНУТРЕННИЕ компоненты ProductsModule
 │   │   │   ├── ProductGrid/   # Сетка товаров (только здесь)
-│   │   │   ├── CategoryFilter/# Фильтр (только здесь)
+│   │   │   ├── CategoryFilter/ # Фильтр (только здесь)
 │   │   │   └── EmptyState/    # Состояние "нет товаров"
 │   │   ├── api/
 │   │   ├── hooks/

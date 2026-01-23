@@ -1,5 +1,7 @@
+import styles from './styles/index.module.css'
+
 export const Phone = () => {
     return (
-        <span>+7 800 000 11 22</span>
+        <a className={styles.phone}>+7 800 000 11 22</a>
     )
 }
